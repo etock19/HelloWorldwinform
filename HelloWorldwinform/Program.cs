@@ -1,10 +1,11 @@
-﻿using System;
+﻿using HelloWorldwinform;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace HelloWorldwinform
+namespace HelloWorldWinform
 {
     internal static class Program
     {
